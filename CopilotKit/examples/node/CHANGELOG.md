@@ -1,5 +1,27 @@
 # node
 
+## 1.17.0
+
+### Minor Changes
+
+- be00d61: Alpha
+- ec8481c: Alpha
+- 3fbee5d: OpenAIAdapter-getter
+- 3f5ad60: OpenAIAdapter: make openai instance gettable
+- 0dd6180: QA
+- 225812d: QA new action type
+
+### Patch Changes
+
+- Updated dependencies [be00d61]
+- Updated dependencies [ec8481c]
+- Updated dependencies [3fbee5d]
+- Updated dependencies [3f5ad60]
+- Updated dependencies [0dd6180]
+- Updated dependencies [225812d]
+  - @copilotkit/backend@0.5.0
+  - @copilotkit/shared@0.5.0
+
 ## 1.17.0-mme-function-call-labels.2
 
 ### Minor Changes

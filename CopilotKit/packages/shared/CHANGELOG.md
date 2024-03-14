@@ -1,5 +1,16 @@
 # @copilotkit/shared
 
+## 0.5.0
+
+### Minor Changes
+
+- be00d61: Alpha
+- ec8481c: Alpha
+- 3fbee5d: OpenAIAdapter-getter
+- 3f5ad60: OpenAIAdapter: make openai instance gettable
+- 0dd6180: QA
+- 225812d: QA new action type
+
 ## 0.5.0-mme-function-call-labels.2
 
 ### Minor Changes
